@@ -89,8 +89,7 @@ pdfunite \
 \
 '数学建模算法与程序-司守奎.pdf'
 
-
-./generate_pdf_info.py '数学建模算法与程序.pdf.info'
+# ./generate_pdf_info.py '数学建模算法与程序.pdf.info'
 
 pdftk '数学建模算法与程序-司守奎.pdf' update_info '数学建模算法与程序.pdf.info' output '数学建模算法与程序-司守奎_with_bookmark.pdf'
 
