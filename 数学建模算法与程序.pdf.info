@@ -1,0 +1,964 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Adobe Acrobat Pro 9.0.0
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20110918213006+08'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20100719160939+08'00'
+InfoBegin
+InfoKey: Producer
+InfoValue: Acrobat Distiller 7.0.5 (Windows)
+InfoBegin
+InfoKey: Author
+InfoValue: 司守奎
+InfoBegin
+InfoKey: Title
+InfoValue: 数学建模算法与程序
+PdfID0: 255662d9784fab45b63be741d727eaa7
+PdfID1: 1515869ccc55654fb184a46d1919a4c6
+BookmarkBegin
+BookmarkTitle: 封面
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: 前言
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 目录
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: 第一章 线性规划
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: §1 线性规划
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: §2 运输问题(产销平衡)
+BookmarkLevel: 2
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: §3 指派问题
+BookmarkLevel: 2
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: §4 对偶理论与灵敏度分析
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: §5 投资的收益和风险
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 第二章 整数规划
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: §1 概论
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: §2 分枝定界法
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: §3 0 − 1 型整数规划
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: §4 蒙特卡洛法（随机取样法）
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: §5 指派问题的计算机求解
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: §6 生产与销售计划问题
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 第三章 非线性规划
+BookmarkLevel: 1
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: §1 非线性规划
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: §2 无约束问题
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: §3 约束极值问题
+BookmarkLevel: 2
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: §4 飞行管理问题
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: 第四章 动态规划
+BookmarkLevel: 1
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: §1 引言
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: §2 基本概念、基本方程和计算方法
+BookmarkLevel: 2
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: §3 逆序解法的计算框图
+BookmarkLevel: 2
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: §4 动态规划与静态规划的关系
+BookmarkLevel: 2
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: §5 若干典型问题的动态规划模型
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: §6 具体的应用实例
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 第五章 图与网络
+BookmarkLevel: 1
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: §1 概论
+BookmarkLevel: 2
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: §2 图与网络的基本概念
+BookmarkLevel: 2
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: §3 应用—最短路问题
+BookmarkLevel: 2
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: §4 树
+BookmarkLevel: 2
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: §5 匹配问题
+BookmarkLevel: 2
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: §6 Euler 图和 Hamilton 图
+BookmarkLevel: 2
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: §7 最大流问题
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: §8 最小费用流及其求法
+BookmarkLevel: 2
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: §9 计划评审方法和关键路线法
+BookmarkLevel: 2
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: §10 钢管订购和运输
+BookmarkLevel: 2
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 第六章 排队论
+BookmarkLevel: 1
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: §1 基本概念
+BookmarkLevel: 2
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: §2 输入过程与服务时间的分布
+BookmarkLevel: 2
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: §3 生灭过程
+BookmarkLevel: 2
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: §4 M / M / s 等待制排队模型
+BookmarkLevel: 2
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: §5 M / M / s / s 损失制排队模型
+BookmarkLevel: 2
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: §6 M / M / s 混合制排队模型
+BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: §7 其它排队模型简介
+BookmarkLevel: 2
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: §8 排队系统的优化
+BookmarkLevel: 2
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: §9 产生给定分布的随机数的方法
+BookmarkLevel: 2
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: §10 排队模型的计算机模拟
+BookmarkLevel: 2
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: 第七章 对策论
+BookmarkLevel: 1
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: §1 引言
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: §2 对策问题
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: §3 零和对策的混合策略
+BookmarkLevel: 2
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: §4 零和对策的线性规划解法
+BookmarkLevel: 2
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: §5 二人非常数和对策
+BookmarkLevel: 2
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: 第八章 层次分析法
+BookmarkLevel: 1
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: §1 层次分析法的基本原理与步骤
+BookmarkLevel: 2
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: §2 层次分析法的应用
+BookmarkLevel: 2
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: 第九章 插值与拟合
+BookmarkLevel: 1
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: §1 插值方法
+BookmarkLevel: 2
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: §2 曲线拟合的线性最小二乘法
+BookmarkLevel: 2
+BookmarkPageNumber: 201
+BookmarkBegin
+BookmarkTitle: §3 最小二乘优化
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: §4 曲线拟合与函数逼近
+BookmarkLevel: 2
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: §5 黄河小浪底调水调沙问题
+BookmarkLevel: 2
+BookmarkPageNumber: 208
+BookmarkBegin
+BookmarkTitle: 第十章 数据的统计描述和分析
+BookmarkLevel: 1
+BookmarkPageNumber: 213
+BookmarkBegin
+BookmarkTitle: §1 统计的基本概念
+BookmarkLevel: 2
+BookmarkPageNumber: 213
+BookmarkBegin
+BookmarkTitle: §2 参数估计
+BookmarkLevel: 2
+BookmarkPageNumber: 219
+BookmarkBegin
+BookmarkTitle: §3 假设检验
+BookmarkLevel: 2
+BookmarkPageNumber: 220
+BookmarkBegin
+BookmarkTitle: 第十一章 方差分析
+BookmarkLevel: 1
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: §1 单因素方差分析
+BookmarkLevel: 2
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: §2 双因素方差分析
+BookmarkLevel: 2
+BookmarkPageNumber: 229
+BookmarkBegin
+BookmarkTitle: §3 正交试验设计与方差分析
+BookmarkLevel: 2
+BookmarkPageNumber: 235
+BookmarkBegin
+BookmarkTitle: 第十二章 回归分析
+BookmarkLevel: 1
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: §1 数据表的基础知识
+BookmarkLevel: 2
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: §2 一元线性回归
+BookmarkLevel: 2
+BookmarkPageNumber: 239
+BookmarkBegin
+BookmarkTitle: §3 多元线性回归
+BookmarkLevel: 2
+BookmarkPageNumber: 251
+BookmarkBegin
+BookmarkTitle: §4 Matlab 中的回归分析
+BookmarkLevel: 2
+BookmarkPageNumber: 254
+BookmarkBegin
+BookmarkTitle: §5 偏相关系数
+BookmarkLevel: 2
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: §6 变量筛选方法
+BookmarkLevel: 2
+BookmarkPageNumber: 260
+BookmarkBegin
+BookmarkTitle: §7 复共线性与有偏估计方法
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: §8 非线性回归
+BookmarkLevel: 2
+BookmarkPageNumber: 273
+BookmarkBegin
+BookmarkTitle: 第十三章 微分方程建模
+BookmarkLevel: 1
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: §1 发射卫星为什么用三级火箭
+BookmarkLevel: 2
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: §2 人口模型
+BookmarkLevel: 2
+BookmarkPageNumber: 282
+BookmarkBegin
+BookmarkTitle: §3 战争模型
+BookmarkLevel: 2
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: §4 放射性废料的处理
+BookmarkLevel: 2
+BookmarkPageNumber: 289
+BookmarkBegin
+BookmarkTitle: 第十四章 稳定状态模型
+BookmarkLevel: 1
+BookmarkPageNumber: 293
+BookmarkBegin
+BookmarkTitle: §1 微分方程稳定性理论简介
+BookmarkLevel: 2
+BookmarkPageNumber: 293
+BookmarkBegin
+BookmarkTitle: §2 再生资源的管理和开发
+BookmarkLevel: 2
+BookmarkPageNumber: 295
+BookmarkBegin
+BookmarkTitle: §3 Volterra 模型
+BookmarkLevel: 2
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 第十五章 常微分方程的解法
+BookmarkLevel: 1
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: §1 常微分方程的离散化
+BookmarkLevel: 2
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: §2 欧拉（Euler）方法
+BookmarkLevel: 2
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: §3 改进的 Euler 方法
+BookmarkLevel: 2
+BookmarkPageNumber: 307
+BookmarkBegin
+BookmarkTitle: §4 龙格—库塔（Runge—Kutta）方法
+BookmarkLevel: 2
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: §5 线性多步法
+BookmarkLevel: 2
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: §6 一阶微分方程组与高阶微分方程的数值解法
+BookmarkLevel: 2
+BookmarkPageNumber: 311
+BookmarkBegin
+BookmarkTitle: §7 初值问题的 Matlab 解法和符号解
+BookmarkLevel: 2
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: §8 边值问题的Matlab解法
+BookmarkLevel: 2
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: 第十六章 差分方程模型
+BookmarkLevel: 1
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: §1 差分方程
+BookmarkLevel: 2
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: §2 蛛网模型
+BookmarkLevel: 2
+BookmarkPageNumber: 325
+BookmarkBegin
+BookmarkTitle: §3 商品销售量预测
+BookmarkLevel: 2
+BookmarkPageNumber: 328
+BookmarkBegin
+BookmarkTitle: §4 遗传模型
+BookmarkLevel: 2
+BookmarkPageNumber: 330
+BookmarkBegin
+BookmarkTitle: §5 养老保险
+BookmarkLevel: 2
+BookmarkPageNumber: 335
+BookmarkBegin
+BookmarkTitle: 第十七章 马氏链模型
+BookmarkLevel: 1
+BookmarkPageNumber: 337
+BookmarkBegin
+BookmarkTitle: §1 随机过程的概念
+BookmarkLevel: 2
+BookmarkPageNumber: 337
+BookmarkBegin
+BookmarkTitle: §2 马尔可夫链
+BookmarkLevel: 2
+BookmarkPageNumber: 337
+BookmarkBegin
+BookmarkTitle: §3 马尔可夫链的应用
+BookmarkLevel: 2
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: 第十八章 变分法模型
+BookmarkLevel: 1
+BookmarkPageNumber: 348
+BookmarkBegin
+BookmarkTitle: §1 变分法简介
+BookmarkLevel: 2
+BookmarkPageNumber: 348
+BookmarkBegin
+BookmarkTitle: §2 生产设备的最大经济效益
+BookmarkLevel: 2
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: §3 产品最佳价格调整问题
+BookmarkLevel: 2
+BookmarkPageNumber: 359
+BookmarkBegin
+BookmarkTitle: 第十九章 神经网络模型
+BookmarkLevel: 1
+BookmarkPageNumber: 362
+BookmarkBegin
+BookmarkTitle: §1 神经网络简介
+BookmarkLevel: 2
+BookmarkPageNumber: 362
+BookmarkBegin
+BookmarkTitle: §2 蠓虫分类问题与多层前馈网络
+BookmarkLevel: 2
+BookmarkPageNumber: 364
+BookmarkBegin
+BookmarkTitle: §3 处理蠓虫分类的另一种网络方法
+BookmarkLevel: 2
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: 第二十章 偏微分方程的数值解
+BookmarkLevel: 1
+BookmarkPageNumber: 372
+BookmarkBegin
+BookmarkTitle: §1 偏微分方程的定解问题
+BookmarkLevel: 2
+BookmarkPageNumber: 372
+BookmarkBegin
+BookmarkTitle: §2 偏微分方程的差分解法
+BookmarkLevel: 2
+BookmarkPageNumber: 374
+BookmarkBegin
+BookmarkTitle: §3 一维状态空间的偏微分方程的 MATLAB 解法
+BookmarkLevel: 2
+BookmarkPageNumber: 388
+BookmarkBegin
+BookmarkTitle: §4 二维状态空间的偏微分方程的 MATLAB 解法
+BookmarkLevel: 2
+BookmarkPageNumber: 398
+BookmarkBegin
+BookmarkTitle: 第二十一章 目标规划
+BookmarkLevel: 1
+BookmarkPageNumber: 407
+BookmarkBegin
+BookmarkTitle: §1 引言
+BookmarkLevel: 2
+BookmarkPageNumber: 407
+BookmarkBegin
+BookmarkTitle: §2 目标规划的数学模型
+BookmarkLevel: 2
+BookmarkPageNumber: 407
+BookmarkBegin
+BookmarkTitle: §3 求解目标规划的序贯式算法
+BookmarkLevel: 2
+BookmarkPageNumber: 409
+BookmarkBegin
+BookmarkTitle: §4 多标规划的 Matlab 解法
+BookmarkLevel: 2
+BookmarkPageNumber: 412
+BookmarkBegin
+BookmarkTitle: §5 目标规划模型的实例
+BookmarkLevel: 2
+BookmarkPageNumber: 414
+BookmarkBegin
+BookmarkTitle: §6 数据包络分析
+BookmarkLevel: 2
+BookmarkPageNumber: 420
+BookmarkBegin
+BookmarkTitle: 第二十二章 模糊数学模型
+BookmarkLevel: 1
+BookmarkPageNumber: 424
+BookmarkBegin
+BookmarkTitle: §1 模糊数学的基本概念
+BookmarkLevel: 2
+BookmarkPageNumber: 424
+BookmarkBegin
+BookmarkTitle: §2 模糊模式识别
+BookmarkLevel: 2
+BookmarkPageNumber: 431
+BookmarkBegin
+BookmarkTitle: §3 模糊聚类分析方法
+BookmarkLevel: 2
+BookmarkPageNumber: 438
+BookmarkBegin
+BookmarkTitle: §4 模糊决策分析方法
+BookmarkLevel: 2
+BookmarkPageNumber: 448
+BookmarkBegin
+BookmarkTitle: 第二十三章 现代优化算法
+BookmarkLevel: 1
+BookmarkPageNumber: 463
+BookmarkBegin
+BookmarkTitle: §1 模拟退火算法
+BookmarkLevel: 2
+BookmarkPageNumber: 463
+BookmarkBegin
+BookmarkTitle: §2 遗传算法
+BookmarkLevel: 2
+BookmarkPageNumber: 468
+BookmarkBegin
+BookmarkTitle: §3 禁忌搜索算法
+BookmarkLevel: 2
+BookmarkPageNumber: 472
+BookmarkBegin
+BookmarkTitle: §4 改进的遗传算法
+BookmarkLevel: 2
+BookmarkPageNumber: 476
+BookmarkBegin
+BookmarkTitle: §5 Matlab 遗传算法工具
+BookmarkLevel: 2
+BookmarkPageNumber: 479
+BookmarkBegin
+BookmarkTitle: §6 蚁群算法
+BookmarkLevel: 2
+BookmarkPageNumber: 483
+BookmarkBegin
+BookmarkTitle: 第二十四章 时间序列模型
+BookmarkLevel: 1
+BookmarkPageNumber: 487
+BookmarkBegin
+BookmarkTitle: §1 时间序列分析方法概述
+BookmarkLevel: 2
+BookmarkPageNumber: 487
+BookmarkBegin
+BookmarkTitle: §2 移动平均法
+BookmarkLevel: 2
+BookmarkPageNumber: 487
+BookmarkBegin
+BookmarkTitle: §3 指数平滑法
+BookmarkLevel: 2
+BookmarkPageNumber: 493
+BookmarkBegin
+BookmarkTitle: §4 差分指数平滑法
+BookmarkLevel: 2
+BookmarkPageNumber: 500
+BookmarkBegin
+BookmarkTitle: §5 自适应滤波法
+BookmarkLevel: 2
+BookmarkPageNumber: 501
+BookmarkBegin
+BookmarkTitle: §6 趋势外推预测方法
+BookmarkLevel: 2
+BookmarkPageNumber: 503
+BookmarkBegin
+BookmarkTitle: §7 平稳时间序列
+BookmarkLevel: 2
+BookmarkPageNumber: 509
+BookmarkBegin
+BookmarkTitle: §8 ARMA 时间序列的建模与预报
+BookmarkLevel: 2
+BookmarkPageNumber: 521
+BookmarkBegin
+BookmarkTitle: §9 ARIMA 序列与季节性序列
+BookmarkLevel: 2
+BookmarkPageNumber: 538
+BookmarkBegin
+BookmarkTitle: §10 异方差性
+BookmarkLevel: 2
+BookmarkPageNumber: 547
+BookmarkBegin
+BookmarkTitle: 第二十五章 灰色系统理论及其应用
+BookmarkLevel: 1
+BookmarkPageNumber: 554
+BookmarkBegin
+BookmarkTitle: §1 灰色系统概论
+BookmarkLevel: 2
+BookmarkPageNumber: 554
+BookmarkBegin
+BookmarkTitle: §2 关联分析
+BookmarkLevel: 2
+BookmarkPageNumber: 555
+BookmarkBegin
+BookmarkTitle: §3 优势分析
+BookmarkLevel: 2
+BookmarkPageNumber: 560
+BookmarkBegin
+BookmarkTitle: §4 生成数
+BookmarkLevel: 2
+BookmarkPageNumber: 562
+BookmarkBegin
+BookmarkTitle: §5 灰色模型 GM
+BookmarkLevel: 2
+BookmarkPageNumber: 563
+BookmarkBegin
+BookmarkTitle: §6 灰色预测
+BookmarkLevel: 2
+BookmarkPageNumber: 566
+BookmarkBegin
+BookmarkTitle: §7 SARS 疫情对某些经济指标影响问题
+BookmarkLevel: 2
+BookmarkPageNumber: 570
+BookmarkBegin
+BookmarkTitle: §8 道路交通事故灰色 Verhulst 预测模型[43]
+BookmarkLevel: 2
+BookmarkPageNumber: 574
+BookmarkBegin
+BookmarkTitle: §9 GM(2,1)和 DGM 模型
+BookmarkLevel: 2
+BookmarkPageNumber: 582
+BookmarkBegin
+BookmarkTitle: §10 GM (1, N ) 和 GM (0, N ) 模型
+BookmarkLevel: 2
+BookmarkPageNumber: 587
+BookmarkBegin
+BookmarkTitle: §11 总结
+BookmarkLevel: 2
+BookmarkPageNumber: 592
+BookmarkBegin
+BookmarkTitle: 第二十六章 多元分析
+BookmarkLevel: 1
+BookmarkPageNumber: 594
+BookmarkBegin
+BookmarkTitle: §1 聚类分析
+BookmarkLevel: 2
+BookmarkPageNumber: 594
+BookmarkBegin
+BookmarkTitle: §2 聚类分析案例—我国各地区普通高等教育发展状况分析
+BookmarkLevel: 2
+BookmarkPageNumber: 603
+BookmarkBegin
+BookmarkTitle: §3 主成分分析
+BookmarkLevel: 2
+BookmarkPageNumber: 608
+BookmarkBegin
+BookmarkTitle: §4 主成分分析案例－我国各地区普通高等教育发展水平综合评价
+BookmarkLevel: 2
+BookmarkPageNumber: 615
+BookmarkBegin
+BookmarkTitle: §5 因子分析
+BookmarkLevel: 2
+BookmarkPageNumber: 618
+BookmarkBegin
+BookmarkTitle: §6 因子分析案例
+BookmarkLevel: 2
+BookmarkPageNumber: 624
+BookmarkBegin
+BookmarkTitle: §7 判别分析
+BookmarkLevel: 2
+BookmarkPageNumber: 637
+BookmarkBegin
+BookmarkTitle: §8 典型相关分析（Canonical correlation analysis）
+BookmarkLevel: 2
+BookmarkPageNumber: 646
+BookmarkBegin
+BookmarkTitle: §9 对应分析
+BookmarkLevel: 2
+BookmarkPageNumber: 661
+BookmarkBegin
+BookmarkTitle: §10 对应分析在品牌定位研究中的应用研究
+BookmarkLevel: 2
+BookmarkPageNumber: 673
+BookmarkBegin
+BookmarkTitle: §11 多维标度法
+BookmarkLevel: 2
+BookmarkPageNumber: 677
+BookmarkBegin
+BookmarkTitle: 第二十七章 偏最小二乘回归分析
+BookmarkLevel: 1
+BookmarkPageNumber: 686
+BookmarkBegin
+BookmarkTitle: §1 偏最小二乘回归分析
+BookmarkLevel: 2
+BookmarkPageNumber: 686
+BookmarkBegin
+BookmarkTitle: §2 一种更简洁的计算方法
+BookmarkLevel: 2
+BookmarkPageNumber: 689
+BookmarkBegin
+BookmarkTitle: §3 案例分析
+BookmarkLevel: 2
+BookmarkPageNumber: 689
+BookmarkBegin
+BookmarkTitle: 第二十八章 存贮论
+BookmarkLevel: 1
+BookmarkPageNumber: 696
+BookmarkBegin
+BookmarkTitle: §1 存贮模型中的基本概念
+BookmarkLevel: 2
+BookmarkPageNumber: 696
+BookmarkBegin
+BookmarkTitle: §2 无约束的确定型存贮模型
+BookmarkLevel: 2
+BookmarkPageNumber: 696
+BookmarkBegin
+BookmarkTitle: §3 有约束的确定型存贮模型
+BookmarkLevel: 2
+BookmarkPageNumber: 707
+BookmarkBegin
+BookmarkTitle: §4 单周期随机库存模型
+BookmarkLevel: 2
+BookmarkPageNumber: 712
+BookmarkBegin
+BookmarkTitle: 第二十九章 经济与金融中的优化问题
+BookmarkLevel: 1
+BookmarkPageNumber: 720
+BookmarkBegin
+BookmarkTitle: §1 经济均衡问题及其应用
+BookmarkLevel: 2
+BookmarkPageNumber: 720
+BookmarkBegin
+BookmarkTitle: §2 投资组合问题
+BookmarkLevel: 2
+BookmarkPageNumber: 731
+BookmarkBegin
+BookmarkTitle: §3 市场营销问题
+BookmarkLevel: 2
+BookmarkPageNumber: 743
+BookmarkBegin
+BookmarkTitle: 第三十章 生产与服务运作管理中的优化问题
+BookmarkLevel: 1
+BookmarkPageNumber: 750
+BookmarkBegin
+BookmarkTitle: §1 有瓶颈设备的多级生产计划问题
+BookmarkLevel: 2
+BookmarkPageNumber: 750
+BookmarkBegin
+BookmarkTitle: §2 下料问题
+BookmarkLevel: 2
+BookmarkPageNumber: 755
+BookmarkBegin
+BookmarkTitle: §3 面试顺序与消防车调度问题
+BookmarkLevel: 2
+BookmarkPageNumber: 761
+BookmarkBegin
+BookmarkTitle: §4 飞机定位和飞行计划问题
+BookmarkLevel: 2
+BookmarkPageNumber: 766
+BookmarkBegin
+BookmarkTitle: 第三十一章 支持向量机
+BookmarkLevel: 1
+BookmarkPageNumber: 774
+BookmarkBegin
+BookmarkTitle: §1 支持向量分类机的基本原理
+BookmarkLevel: 2
+BookmarkPageNumber: 774
+BookmarkBegin
+BookmarkTitle: §2 支持向量回归机
+BookmarkLevel: 2
+BookmarkPageNumber: 781
+BookmarkBegin
+BookmarkTitle: §3 乳腺癌的诊断
+BookmarkLevel: 2
+BookmarkPageNumber: 785
+BookmarkBegin
+BookmarkTitle: 第三十二章 作业计划
+BookmarkLevel: 1
+BookmarkPageNumber: 792
+BookmarkBegin
+BookmarkTitle: §1 流水车间调度问题
+BookmarkLevel: 2
+BookmarkPageNumber: 792
+BookmarkBegin
+BookmarkTitle: §2 作业车间调度问题
+BookmarkLevel: 2
+BookmarkPageNumber: 800
+BookmarkBegin
+BookmarkTitle: 附录一 Matlab入门
+BookmarkLevel: 1
+BookmarkPageNumber: 806
+BookmarkBegin
+BookmarkTitle: § 1 概论
+BookmarkLevel: 2
+BookmarkPageNumber: 806
+BookmarkBegin
+BookmarkTitle: §2 Matlab 简介
+BookmarkLevel: 2
+BookmarkPageNumber: 806
+BookmarkBegin
+BookmarkTitle: §3 程序设计
+BookmarkLevel: 2
+BookmarkPageNumber: 816
+BookmarkBegin
+BookmarkTitle: §4 文件
+BookmarkLevel: 2
+BookmarkPageNumber: 820
+BookmarkBegin
+BookmarkTitle: §5 动画制作
+BookmarkLevel: 2
+BookmarkPageNumber: 822
+BookmarkBegin
+BookmarkTitle: 附录二 Matlab在线性代数中的应用
+BookmarkLevel: 1
+BookmarkPageNumber: 825
+BookmarkBegin
+BookmarkTitle: §1 向量组的线性相关性
+BookmarkLevel: 2
+BookmarkPageNumber: 825
+BookmarkBegin
+BookmarkTitle: §2 齐次线性方程组
+BookmarkLevel: 2
+BookmarkPageNumber: 825
+BookmarkBegin
+BookmarkTitle: §3 非齐次线性方程组
+BookmarkLevel: 2
+BookmarkPageNumber: 826
+BookmarkBegin
+BookmarkTitle: §4 相似矩阵及二次型
+BookmarkLevel: 2
+BookmarkPageNumber: 829
+BookmarkBegin
+BookmarkTitle: 附录三 运筹学的LINGO软件
+BookmarkLevel: 1
+BookmarkPageNumber: 832
+BookmarkBegin
+BookmarkTitle: § 1 简介
+BookmarkLevel: 2
+BookmarkPageNumber: 832
+BookmarkBegin
+BookmarkTitle: §2 LINGO 快速入门
+BookmarkLevel: 2
+BookmarkPageNumber: 832
+BookmarkBegin
+BookmarkTitle: §3 LINGO 中的集
+BookmarkLevel: 2
+BookmarkPageNumber: 835
+BookmarkBegin
+BookmarkTitle: 否“相等”，可参考§4。 &1 可看作派生集的第 1 个原始父集的索引，它取遍该原始
+BookmarkLevel: 2
+BookmarkPageNumber: 838
+BookmarkBegin
+BookmarkTitle: §4 模型的数据部分和初始部分
+BookmarkLevel: 2
+BookmarkPageNumber: 838
+BookmarkBegin
+BookmarkTitle: §5 LINGO 函数
+BookmarkLevel: 2
+BookmarkPageNumber: 841
+BookmarkBegin
+BookmarkTitle: §6 LINGO 的命令行命令
+BookmarkLevel: 2
+BookmarkPageNumber: 856
+BookmarkBegin
+BookmarkTitle: §7 综合举例
+BookmarkLevel: 2
+BookmarkPageNumber: 859
+BookmarkBegin
+BookmarkTitle: 附录四 Excel在统计分析与数量方法中的应用
+BookmarkLevel: 1
+BookmarkPageNumber: 870
+BookmarkBegin
+BookmarkTitle: §1 Excel 简介
+BookmarkLevel: 2
+BookmarkPageNumber: 870
+BookmarkBegin
+BookmarkTitle: §2 Excel 基本操作
+BookmarkLevel: 2
+BookmarkPageNumber: 871
+BookmarkBegin
+BookmarkTitle: §3 Excel在描述统计中的应用
+BookmarkLevel: 2
+BookmarkPageNumber: 873
+BookmarkBegin
+BookmarkTitle: §4 Excel在推断统计中的应用
+BookmarkLevel: 2
+BookmarkPageNumber: 877
+BookmarkBegin
+BookmarkTitle: §5 线性规划
+BookmarkLevel: 2
+BookmarkPageNumber: 894
+BookmarkBegin
+BookmarkTitle: 附录五 SPSS在统计分析中的应用
+BookmarkLevel: 1
+BookmarkPageNumber: 900
+BookmarkBegin
+BookmarkTitle: §1 SPSS 软件基础
+BookmarkLevel: 2
+BookmarkPageNumber: 900
+BookmarkBegin
+BookmarkTitle: §2 统计数据的收集、整理与描述
+BookmarkLevel: 2
+BookmarkPageNumber: 905
+BookmarkBegin
+BookmarkTitle: §3 由样本推断总体
+BookmarkLevel: 2
+BookmarkPageNumber: 909
+BookmarkBegin
+BookmarkTitle: §4 方差分析
+BookmarkLevel: 2
+BookmarkPageNumber: 910
+BookmarkBegin
+BookmarkTitle: §5 相关分析
+BookmarkLevel: 2
+BookmarkPageNumber: 911
+BookmarkBegin
+BookmarkTitle: §6 回归分析
+BookmarkLevel: 2
+BookmarkPageNumber: 913
+BookmarkBegin
+BookmarkTitle: 参考文献
+BookmarkLevel: 1
+BookmarkPageNumber: 916
